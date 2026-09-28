@@ -1,0 +1,88 @@
+READLICENSE — LICENCE PROPRIÉTAIRE / PROPRIETARY LICENSE
+Version 1.0 — 2026
+
+==============================
+FRANÇAIS
+==============================
+
+Copyright (c) 2026. Tous droits réservés.
+
+1. OBJET
+Le présent logiciel, notamment son code source, sa documentation, ses fichiers de configuration, son interface et ses éléments associés (le « Logiciel »), est protégé par les lois applicables relatives au droit d’auteur et à la propriété intellectuelle.
+
+2. UTILISATION AUTORISÉE
+Sauf autorisation écrite distincte du titulaire des droits, l’utilisateur qui a reçu légitimement une copie du Logiciel est autorisé à l’installer, le configurer et l’utiliser pour ses propres sites, applications ou infrastructures, à des fins internes ou pour fournir le service auquel le Logiciel est intégré.
+
+3. RESTRICTIONS
+Sauf autorisation écrite préalable du titulaire des droits, il est interdit de :
+- publier, redistribuer, partager ou mettre à disposition une copie du Logiciel ou d’une partie substantielle de celui-ci ;
+- revendre, sous-licencier, louer ou commercialiser le Logiciel en tant que produit autonome ;
+- supprimer ou masquer les mentions de droit d’auteur, de licence ou d’attribution présentes dans le Logiciel ;
+- présenter le Logiciel original ou une copie substantielle comme étant sa propre création ;
+- distribuer publiquement une version modifiée ou une œuvre dérivée du Logiciel.
+
+4. MODIFICATIONS PRIVÉES
+L’utilisateur peut effectuer des modifications nécessaires à son propre déploiement, à condition que ces modifications et le Logiciel modifié ne soient pas redistribués en violation de la présente licence.
+
+5. COMPOSANTS TIERS
+Les bibliothèques, services, API et autres composants tiers utilisés avec le Logiciel restent soumis à leurs propres licences et conditions. La présente licence ne confère aucun droit supplémentaire sur ces composants tiers.
+
+6. DONNÉES, CONFIDENTIALITÉ ET CONFORMITÉ
+L’utilisateur est seul responsable de son déploiement du Logiciel, de la configuration des services tiers, de l’information ou du consentement des visiteurs lorsque cela est requis, ainsi que du respect des lois et règlements applicables en matière de données personnelles, de communications électroniques et de sécurité.
+
+7. ABSENCE DE GARANTIE
+DANS LA MESURE AUTORISÉE PAR LA LOI, LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS GARANTIE EXPRESSE OU IMPLICITE. LE TITULAIRE DES DROITS NE GARANTIT PAS QUE LE LOGICIEL SERA EXEMPT D’ERREURS, DISPONIBLE SANS INTERRUPTION OU ADAPTÉ À UN USAGE PARTICULIER.
+
+8. LIMITATION DE RESPONSABILITÉ
+DANS LA MESURE AUTORISÉE PAR LA LOI, LE TITULAIRE DES DROITS NE POURRA ÊTRE TENU RESPONSABLE DES DOMMAGES INDIRECTS, INCIDENTS, SPÉCIAUX OU CONSÉCUTIFS RÉSULTANT DE L’UTILISATION OU DE L’IMPOSSIBILITÉ D’UTILISER LE LOGICIEL.
+
+9. AUTORISATIONS SUPPLÉMENTAIRES
+Toute utilisation, redistribution, intégration commerciale ou concession de droits dépassant les autorisations ci-dessus nécessite l’accord écrit préalable du titulaire des droits.
+
+10. RÉSERVE DES DROITS
+Tous les droits qui ne sont pas expressément accordés par la présente licence sont réservés au titulaire des droits.
+
+Cette licence est un texte de licence logicielle et ne constitue pas un avis juridique. Pour des besoins contractuels ou une protection adaptée à une juridiction précise, consultez un professionnel du droit.
+
+==============================
+ENGLISH
+==============================
+
+Copyright (c) 2026. All rights reserved.
+
+1. PURPOSE
+This software, including its source code, documentation, configuration files, interface, and associated materials (the “Software”), is protected by applicable copyright and intellectual-property laws.
+
+2. PERMITTED USE
+Unless otherwise authorized in writing by the rights holder, a user who has lawfully received a copy of the Software may install, configure, and use it for the user’s own websites, applications, or infrastructure, for internal purposes or to provide the service into which the Software is integrated.
+
+3. RESTRICTIONS
+Without prior written permission from the rights holder, you may not:
+- publish, redistribute, share, or otherwise make available a copy of the Software or a substantial portion of it;
+- resell, sublicense, rent, or commercialize the Software as a standalone product;
+- remove or conceal copyright, license, or attribution notices contained in the Software;
+- represent the original Software or a substantial copy as your own original work;
+- publicly distribute a modified version or derivative work of the Software.
+
+4. PRIVATE MODIFICATIONS
+Users may make modifications necessary for their own deployment, provided that such modifications and the modified Software are not redistributed in violation of this license.
+
+5. THIRD-PARTY COMPONENTS
+Libraries, services, APIs, and other third-party components used with the Software remain subject to their own licenses and terms. This license grants no additional rights to those third-party components.
+
+6. DATA, PRIVACY, AND COMPLIANCE
+The user is solely responsible for the deployment of the Software, configuration of third-party services, visitor notices or consent where required, and compliance with applicable privacy, electronic-communications, and security laws and regulations.
+
+7. NO WARRANTY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT EXPRESS OR IMPLIED WARRANTIES. THE RIGHTS HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR FIT FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE RIGHTS HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. ADDITIONAL PERMISSIONS
+Any use, redistribution, commercial integration, or grant of rights beyond the permissions above requires the rights holder’s prior written permission.
+
+10. RESERVATION OF RIGHTS
+All rights not expressly granted under this license are reserved by the rights holder.
+
+This license is software-license text and is not legal advice. For contractual requirements or protection tailored to a specific jurisdiction, consult a qualified legal professional.
